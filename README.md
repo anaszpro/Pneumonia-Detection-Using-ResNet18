@@ -4,6 +4,7 @@ This project utilizes a pre-trained ResNet-18 model for pneumonia detection from
 ##Pneumonia Detection using ResNet-18
 This project demonstrates a deep learning-based approach to detecting pneumonia from chest X-ray images using a pre-trained ResNet-18 model. The model has been fine-tuned for binary classification (Normal vs. Pneumonia) using a curated dataset of X-ray images. This project highlights the power of transfer learning to address real-world medical challenges and offers an end-to-end pipeline for training, evaluation, and inference.
 
+
 ##Features
 #1. Data Preparation
 Dataset: The dataset is organized into training (new_train) and validation (new_val) subsets.
